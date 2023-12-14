@@ -2,7 +2,7 @@
   
 ## CoderDojo Deutschland e.V.
   
-Stand: September 2017  
+Stand: September 2018  
 
 ## Struktur
 
@@ -20,12 +20,7 @@ Stand: September 2017
 
 ## Präambel
 
-Computer und IT-Technologie werden in Zukunft ein ständiger Begleiter in unserem täglichen
-Leben sein. Ebenso werden der Umgang und das Verständnis im Umgang mit dieser Technologie
-zum Basiswissen der meisten Bürger gehören. Zudem sehen wir einen Bedarf für ein
-Grundverständnis der Funktionsweise und Programmierung von IT-Technologie bei Kindern und
-Jugendlichen. Das CoderDojo Deutschland macht es sich zur Aufgabe, Kinder und Jugendliche bei
-dem Erwerb dieses Grundverständnisses und darüber hinaus zu unterstützen.
+Computer und IT-Technologie werden in Zukunft ein ständiger Begleiter in unserem täglichen Leben sein. Ebenso werden der Umgang und das Verständnis im Umgang mit dieser Technologie zum Basiswissen der meisten Bürger gehören. Zudem sehen wir einen Bedarf für ein Grundverständnis der Funktionsweise und Programmierung von IT-Technologie bei Kindern und Jugendlichen. Das CoderDojo Deutschland macht es sich zur Aufgabe, Kinder und Jugendliche bei dem Erwerb dieses Grundverständnisses und darüber hinaus zu unterstützen.
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
@@ -185,7 +180,7 @@ Die Organe des Vereins sind:
    denen der Verein durch alle Mitglieder des Vorstands gemeinschaftlich vertreten wird.
 3. Sind ein oder mehrere Vorstandsmitglieder dauernd an der Ausübung ihres Amtes
    gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
-4. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Wiederwahl ist zulässig. Damit
+4. Die Amtsdauer der Vorstandsmitglieder beträgt drei Jahre. Wiederwahl ist zulässig. Damit
    auch nach Ablauf der Amtsdauer eine ordnungsgemäße gesetzliche Vertretung gesichert ist,
    bleibt der Vorstand bis zur Neuwahl im Amt.
 5. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter; er kann diese
